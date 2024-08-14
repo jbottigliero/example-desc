@@ -11,6 +11,14 @@
         "title": "LSSTDESC Data Portal",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
+        "navigation": {
+          "items": [
+            {
+              "label": "Contact",
+              "href": "https://github.com/LSSTDESC/desc-data-portal/discussions"
+            }
+          ]
+        }
       },
       "globus": {
         "application": {
