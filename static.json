@@ -9,7 +9,7 @@
     "attributes": {
       "content": {
         "title": "LSSTDESC Data Portal",
-        "image": "https://data.lsstdesc.org/static/img/lsst_stills_0009.jpg",
+        "image": "/img/lsst_stills_0009.jpg",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms.",
         "navigation": {
