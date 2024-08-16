@@ -72,7 +72,7 @@ pip install --upgrade https://github.com/LSSTDESC/gcr-catalogs/archive/v1.4.0.ta
 
 ### Configure: Setting up `root_dir` for GCRCatalogs
 
-After you [download the data files]({{url_for('render_doc', doc_name='download')}}) and [install `GCRCatalogs`]({{url_for('render_doc', doc_name='install_gcr')}}),
+After you [download the data files](/doc/download) and [install `GCRCatalogs`](/doc/install_gcr), 
 you need to tell `GCRCatalogs` where these downloaded files sit on your machine.
 
 When you used Globus transfer, if you downloaded the files to `/path/to/the/download/directory`, then run in a terminal
